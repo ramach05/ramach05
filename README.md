@@ -1,6 +1,6 @@
 <br>
 
-<img src="./images/header-gif.gif" alt="header gif" width=100% style="border-radius:100px; box-shadow: 0px 0px 50px -11px rgba(255,255,255,1)"/>
+<img src="./images/header-gif.gif" alt="header gif" style="width:100%; border-radius:100px; box-shadow: 0px 0px 50px -11px rgba(255,255,255,1)"/>
 
 
 #### <div style="text-align:center">👋 Welcome to my page!</div>
@@ -21,6 +21,9 @@
 <br>
 
 # <div style="color:#feaf00">My stats 🔢</div>
+```html
+<div style="color:#feaf00">My stats 🔢</div>
+```
 
 ![Romans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramach05&theme=vision-friendly-dark&show_icons=true&count_private=true&bg_color=73,155,234,1&custom_title=GitHub&nbsp;stats)
 
