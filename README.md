@@ -9,6 +9,9 @@
 
 ## **My teck stack**
 
+<br>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=plastic&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React.js](https://img.shields.io/badge/React.js-0d1117?style=plastic&logo=React)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=plastic&logo=node.js)](https://nodejs.org/en/)
 
 ---
 
