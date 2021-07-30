@@ -9,7 +9,7 @@
 
 ---
 
-## **My teck stack**
+### **My teck stack**
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## **My contacts**
+### **My contacts**
 
 <br>
 
@@ -25,7 +25,9 @@
 
 ---
 
-## **My stats**
+### **My stats**
+
+<br>
 
 ![Romans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramach05&theme=vision-friendly-dark&show_icons=true&count_private=true&bg_color=73,155,234,1&custom_title=GitHub&nbsp;stats)
 
