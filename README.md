@@ -13,11 +13,15 @@
 
 <br>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=plastic&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React.js](https://img.shields.io/badge/React.js-0d1117?style=plastic&logo=React)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=plastic&logo=node.js)](https://nodejs.org/en/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-051d4d?style=plastic&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React.js](https://img.shields.io/badge/React.js-051d4d?style=plastic&logo=React)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-051d4d?style=plastic&logo=node.js)](https://nodejs.org/en/)
 
 ---
 
 ## **My contacts**
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/mrroman6552@gmail.com-051d4d?style=plastic&logo=gmail)](mailto:mrroman6552@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram&nbsp;ramach05-051d4d?style=plastic&logo=telegram)](https://t.me/ramach05) [![Facebook](https://img.shields.io/badge/Facebook&nbsp;ramach05-051d4d?style=plastic&logo=facebook)](https://www.facebook.com/ramach05)  [![Linkedin](https://img.shields.io/badge/Linkedin&nbsp;ramach05-051d4d?style=plastic&logo=linkedin)](www.linkedin.com/in/ramach05/)
 
 ---
 
