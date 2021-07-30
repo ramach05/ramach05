@@ -1,4 +1,6 @@
+<img src="./images/header-gif.gif" alt="header gif" width=100%/>
 
+---
 
 ### 👋 Welcome to my page!
 ### I'm Roman, beginner Web developer from Saint Petersburg, Russia
