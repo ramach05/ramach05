@@ -1,9 +1,11 @@
-<img src="./images/header-gif.gif" alt="header gif" width=100%/>
+<br>
 
----
+<img src="./images/header-gif.gif" alt="header gif" width=100% style="border-radius:100px; box-shadow: 0px 0px 50px -11px rgba(255,255,255,1)"/>
 
-### 👋 Welcome to my page!
-### I'm Roman, beginner Web developer from Saint Petersburg, Russia
+### <div style="text-align:center">👋 Welcome to my page!</div>
+### <div style="text-align:center">I'm Roman, beginner Web developer from Saint Petersburg, Russia.</div>
+
+<br>
 
 ---
 
