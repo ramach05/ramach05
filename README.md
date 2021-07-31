@@ -1,8 +1,4 @@
 <img src="./images/header-gif.gif" alt="header gif" width="100%" />
-<<<<<<< HEAD
-=======
-
->>>>>>> 910711d1efa25df7638a5241adeefc34548e641e
 
 #### <div align="center"><img src="./images/hi-gif.gif" alt="hi gif" width=20px /> Welcome to my page!</div>
 #### <div align="center">I'm Roman, beginner Web developer from Saint Petersburg, Russia <img src="./images/russian-flag.gif" alt="hi gif" width=20px /></div>
@@ -15,16 +11,12 @@
 [![React.js](https://img.shields.io/badge/React.js-391468?style=flat&logo=React)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-391468?style=flat&logo=node.js)](https://nodejs.org/en/)
 
-<br>
-
 ## My contacts 💌
 
 [![Gmail](https://img.shields.io/badge/mrroman6552@gmail.com-391468?style=flat&logo=gmail)](mailto:mrroman6552@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram&nbsp;ramach05-391468?style=flat&logo=telegram)](https://t.me/ramach05)
 [![Facebook](https://img.shields.io/badge/Facebook&nbsp;ramach05-391468?style=flat&logo=facebook)](https://www.facebook.com/ramach05)
 [![Linkedin](https://img.shields.io/badge/Linkedin&nbsp;ramach05-391468?style=flat&logo=linkedin)](www.linkedin.com/in/ramach05/)
-
-<br>
 
 ## My stats 🔢
 
