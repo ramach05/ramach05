@@ -1,7 +1,4 @@
-<br>
-
-<img src="./images/header-gif.gif" alt="header gif" width="100%"/>
-
+<img src="./images/header-gif.gif" alt="header gif" width="100%" />
 
 #### <div align="center"><img src="./images/hi-gif.gif" alt="hi gif" width=20px /> Welcome to my page!</div>
 #### <div align="center">I'm Roman, beginner Web developer from Saint Petersburg, Russia <img src="./images/russian-flag.gif" alt="hi gif" width=20px /></div>
