@@ -20,7 +20,7 @@
 
 ## My stats 🔢
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramach05&theme=tokyonight&show_icons=true&count_private=true&bg_color=73,155,234,1&custom_title=GitHub&nbsp;stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramach05&theme=tokyonight&show_icons=true&count_private=true&bg_color=73,155,234,1&custom_title=GitHub&nbsp;stats&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramach05&layout=compact&theme=tokyonight&bg_color=73,155,234,1)
 
