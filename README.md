@@ -1,13 +1,14 @@
 <img src="./images/header-gif.gif" alt="header gif" width="100%" />
 
 #### <div align="center"><img src="./images/hi-gif.gif" alt="hi gif" width=20px height=20px /> Welcome to my page!</div>
-#### <div align="center">I'm Roman, Web developer from Saint Petersburg, Russia</div>
+#### <div align="center">I'm Roman, Web developer from Moscow, Russia</div>
 
 <br>
 
 ## My teck stack 🛠
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-391468?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-391468?logo=typescript)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React.js-391468?style=flat&logo=React)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-391468?style=flat&logo=node.js)](https://nodejs.org/en/)
 
