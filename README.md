@@ -5,7 +5,7 @@
 
 <br>
 
-## My teck stack 🛠
+## My tech stack 🛠
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-391468?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-391468?logo=typescript)](https://www.typescriptlang.org/)
