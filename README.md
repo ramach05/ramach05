@@ -45,6 +45,7 @@ Senior Frontend Developer with 5+ years of experience building high-load B2C/B2B
 [![Styled Components](https://img.shields.io/badge/Styled%20Components-391468?style=flat&logo=styled-components)](https://styled-components.com/)
 [![SASS](https://img.shields.io/badge/SASS-391468?style=flat&logo=sass)](https://sass-lang.com/)
 [![CSS Modules](https://img.shields.io/badge/CSS%20Modules-391468?style=flat&logo=cssmodules)](https://github.com/css-modules/css-modules)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-391468?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
 [![Ant Design](https://img.shields.io/badge/Ant%20Design-391468?style=flat&logo=antdesign)](https://ant.design/)
 
 **Testing & tools**
