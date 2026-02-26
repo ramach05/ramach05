@@ -37,12 +37,14 @@ Senior Frontend Developer with 5+ years of experience building high-load B2C/B2B
 **State & architecture**
 
 [![Redux](https://img.shields.io/badge/Redux-391468?style=flat&logo=redux)](https://redux.js.org/)
-[![MobX](https://img.shields.io/badge/MobX-391468?style=flat)](https://mobx.js.org/)
+[![MobX](https://img.shields.io/badge/MobX-391468?style=flat&logo=mobx)](https://mobx.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-391468?style=flat)](https://github.com/pmndrs/zustand)
 
 **Styling & UI**
 
 [![Styled Components](https://img.shields.io/badge/Styled%20Components-391468?style=flat&logo=styled-components)](https://styled-components.com/)
 [![SASS](https://img.shields.io/badge/SASS-391468?style=flat&logo=sass)](https://sass-lang.com/)
+[![CSS Modules](https://img.shields.io/badge/CSS%20Modules-391468?style=flat&logo=cssmodules)](https://github.com/css-modules/css-modules)
 [![Ant Design](https://img.shields.io/badge/Ant%20Design-391468?style=flat&logo=antdesign)](https://ant.design/)
 
 **Testing & tools**
@@ -50,6 +52,8 @@ Senior Frontend Developer with 5+ years of experience building high-load B2C/B2B
 [![Jest](https://img.shields.io/badge/Jest-391468?style=flat&logo=jest)](https://jestjs.io/)
 [![Vitest](https://img.shields.io/badge/Vitest-391468?style=flat&logo=vitest)](https://vitest.dev/)
 [![Storybook](https://img.shields.io/badge/Storybook-391468?style=flat&logo=storybook)](https://storybook.js.org/)
+[![Vite](https://img.shields.io/badge/Vite-391468?style=flat&logo=vite)](https://vitejs.dev/)
+[![Webpack](https://img.shields.io/badge/Webpack-391468?style=flat&logo=webpack)](https://webpack.js.org/)
 [![Docker](https://img.shields.io/badge/Docker-391468?style=flat&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-391468?style=flat&logo=git)](https://git-scm.com/)
 
