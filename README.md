@@ -5,7 +5,7 @@
 ### <img src="./images/hi-gif.gif" alt="hi" width="20" height="20" /> Welcome to my page!
 
 **Roman Kovalenko**  
-**Senior Frontend Developer (React / TypeScript)** · 5+ years in product development
+**Senior Web Developer (React, TypeScript, Node.js)** · 5+ years in product development
 
 *Moscow, Russia*
 
@@ -15,11 +15,11 @@
 
 ## About me
 
-Senior Frontend Developer with 5+ years of experience building high-load B2C/B2B products in **fintech**, **e-commerce** and **enterprise**.
+Senior Web Developer with 5+ years of experience building high-load B2C/B2B products in **fintech**, **e-commerce** and **enterprise**.
 
-- Strong in **React**, **TypeScript**, **Next.js** and frontend architecture (microfrontends with Module Federation, Feature-Sliced Design).
+- Strong in **React**, **TypeScript**, **Next.js**, **Node.js** and frontend architecture (microfrontends with Module Federation, Feature-Sliced Design).
 - Focus on **performance** (Web Vitals, Lighthouse, bundle size) and scalable solutions.
-- Experience with **CI/CD**, unit and e2e testing (Jest, Vitest, Puppeteer), and improving development processes.
+- Experience with **CI/CD**, unit and e2e testing (Jest, Vitest, Puppeteer, Playwrite), and improving development processes.
 - Mentorship, code review, and work in cross-functional teams (up to 60 people).
 
 <br>
