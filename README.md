@@ -1,3 +1,4 @@
+successfully downloaded text file (SHA: b667b7c67778282815ca0ce3b7c1a0512e05b0d1)
 <img src="./images/header-gif.gif" alt="header gif" width="100%" />
 
 <div align="center">
@@ -19,8 +20,27 @@ Senior Web Developer with 5+ years of experience building high-load B2C/B2B prod
 
 - Strong in **React**, **TypeScript**, **Next.js**, **Node.js** and frontend architecture (microfrontends with Module Federation, Feature-Sliced Design).
 - Focus on **performance** (Web Vitals, Lighthouse, bundle size) and scalable solutions.
-- Experience with **CI/CD**, unit and e2e testing (Jest, Vitest, Puppeteer, Playwrite), and improving development processes.
+- Experience with **CI/CD**, unit and e2e testing (Jest, Vitest, Puppeteer, Playwright), and improving development processes.
 - Mentorship, code review, and work in cross-functional teams (up to 60 people).
+
+<br>
+
+## Featured project
+
+### [3D WEB Racing Platform](https://github.com/ramach05/3D-WEB-Racing-Platform)
+
+<a href="https://github.com/ramach05/3D-WEB-Racing-Platform"><img src="https://raw.githubusercontent.com/ramach05/3D-WEB-Racing-Platform/main/docs/screenshots/thumbs/race-2.png" alt="Night City race" width="100%" /></a>
+
+Browser time-trial 3D racer: **React 19 + React Three Fiber + Rapier (WASM)** physics on the front, **NestJS 11 + Prisma 7** on the back. pnpm monorepo, Feature-Sliced Design, steady ~60 fps.
+
+- 3 tracks with distinct weather and procedural graphics, 5-car garage
+- Audio 100% synthesized at runtime (Web Audio API) — zero audio files
+- Rotating httpOnly refresh tokens with theft detection
+- 572 unit/integration tests + 5 Playwright flows, CI-gated
+
+[![CI](https://img.shields.io/github/actions/workflow/status/ramach05/3D-WEB-Racing-Platform/ci.yml?branch=main&label=CI&style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/tests-572%20Vitest%20%2B%205%20Playwright-391468?style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform#testing)
+[![License: MIT](https://img.shields.io/badge/License-MIT-391468?style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform/blob/main/LICENSE)
 
 <br>
 
@@ -33,6 +53,14 @@ Senior Web Developer with 5+ years of experience building high-load B2C/B2B prod
 [![React](https://img.shields.io/badge/React-391468?style=flat&logo=react)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-391468?style=flat&logo=next.js)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-391468?style=flat&logo=node.js)](https://nodejs.org/)
+
+**3D & backend**
+
+[![Three.js](https://img.shields.io/badge/Three.js-391468?style=flat&logo=threedotjs)](https://threejs.org/)
+[![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-391468?style=flat&logo=reactthreefiber)](https://r3f.docs.pmnd.rs/)
+[![WebGL](https://img.shields.io/badge/WebGL-391468?style=flat&logo=webgl)](https://www.khronos.org/webgl/)
+[![NestJS](https://img.shields.io/badge/NestJS-391468?style=flat&logo=nestjs)](https://nestjs.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-391468?style=flat&logo=prisma)](https://www.prisma.io/)
 
 **State & architecture**
 
