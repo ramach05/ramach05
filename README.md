@@ -1,4 +1,3 @@
-successfully downloaded text file (SHA: b667b7c67778282815ca0ce3b7c1a0512e05b0d1)
 <img src="./images/header-gif.gif" alt="header gif" width="100%" />
 
 <div align="center">
