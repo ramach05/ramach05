@@ -45,7 +45,7 @@ Browser time-trial 3D racer: **React 19 + React Three Fiber + Rapier (WASM)** ph
 
 ### [Beautiful TodoApp](https://github.com/ramach05/Beautiful-todoApp)
 
-<a href="https://github.com/ramach05/Beautiful-todoApp"><img src="https://raw.githubusercontent.com/ramach05/Beautiful-todoApp/main/docs/screenshots/desktop/todo.png" alt="Beautiful TodoApp — the todo list on desktop" width="100%" /></a>
+<a href="https://github.com/ramach05/Beautiful-todoApp"><img src="https://raw.githubusercontent.com/ramach05/Beautiful-todoApp/main/docs/screenshots/thumbs/desktop/todo.png" alt="Beautiful TodoApp — the todo list on desktop" width="100%" /></a>
 
 Todo app built to production standards: **React 19 + Vite** SPA on Feature-Sliced Design, **Fastify 5 + oRPC + better-auth + Drizzle/PostgreSQL** on the back. pnpm + Turborepo monorepo, one zod contract for the client, the server and the generated OpenAPI.
 
