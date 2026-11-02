@@ -24,7 +24,7 @@ Senior Web Developer with 5+ years of experience building high-load B2C/B2B prod
 
 <br>
 
-## Featured project
+## Featured projects
 
 ### [3D WEB Racing Platform](https://github.com/ramach05/3D-WEB-Racing-Platform)
 
@@ -40,6 +40,23 @@ Browser time-trial 3D racer: **React 19 + React Three Fiber + Rapier (WASM)** ph
 [![CI](https://img.shields.io/github/actions/workflow/status/ramach05/3D-WEB-Racing-Platform/ci.yml?branch=main&label=CI&style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/tests-572%20Vitest%20%2B%205%20Playwright-391468?style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform#testing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-391468?style=flat)](https://github.com/ramach05/3D-WEB-Racing-Platform/blob/main/LICENSE)
+
+<br>
+
+### [Beautiful TodoApp](https://github.com/ramach05/Beautiful-todoApp)
+
+<a href="https://github.com/ramach05/Beautiful-todoApp"><img src="https://raw.githubusercontent.com/ramach05/Beautiful-todoApp/main/docs/screenshots/desktop/todo.png" alt="Beautiful TodoApp — the todo list on desktop" width="100%" /></a>
+
+Todo app built to production standards: **React 19 + Vite** SPA on Feature-Sliced Design, **Fastify 5 + oRPC + better-auth + Drizzle/PostgreSQL** on the back. pnpm + Turborepo monorepo, one zod contract for the client, the server and the generated OpenAPI.
+
+- End-to-end type safety from Postgres rows to button props — no codegen
+- httpOnly session auth with rate limiting and a written threat model
+- EN/RU i18n on the user profile, drag-and-drop ordering, URL filter state
+- 57 Vitest + 13 Playwright tests, coverage ratchets, nightly mutation runs, Lighthouse CI budgets
+
+[![CI](https://img.shields.io/github/actions/workflow/status/ramach05/Beautiful-todoApp/ci.yml?branch=main&label=CI&style=flat)](https://github.com/ramach05/Beautiful-todoApp/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/tests-57%20Vitest%20%2B%2013%20Playwright-391468?style=flat)](https://github.com/ramach05/Beautiful-todoApp#testing)
+[![License: MIT](https://img.shields.io/badge/License-MIT-391468?style=flat)](https://github.com/ramach05/Beautiful-todoApp/blob/main/LICENSE)
 
 <br>
 
