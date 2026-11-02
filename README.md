@@ -60,6 +60,17 @@ Todo app built to production standards: **React 19 + Vite** SPA on Feature-Slice
 
 <br>
 
+## More projects
+
+- **[withdraw-page](https://github.com/ramach05/withdraw-page)** — money-withdrawal form on Next.js 16 + Zustand: idempotent submit, retry policy, request cancellation; 13 Vitest + 1 Playwright test, CI-gated.
+- **[fitness-tariffs](https://github.com/ramach05/fitness-tariffs)** — gym membership landing on Next.js 15 + Tailwind: live promo countdown, tariff cards from a runtime API.
+- **[product-catalog](https://github.com/ramach05/product-catalog)** — authenticated products table on React 18 + Vite + Zustand: server-side search, sort and pagination, CSS Modules.
+- **[movies-explorer](https://github.com/ramach05/movies-explorer-frontend)** + [backend](https://github.com/ramach05/movies-explorer-api) — movie search app with a personal collection: React frontend, Express/MongoDB API with JWT auth.
+
+Early learning projects (2021: layout, first React and Node) are archived and kept for reference.
+
+<br>
+
 ## Tech stack
 
 **Core**
