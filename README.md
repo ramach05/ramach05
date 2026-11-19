@@ -28,7 +28,7 @@ Senior Web Developer with 5+ years of experience building high-load B2C/B2B prod
 
 ### [3D WEB Racing Platform](https://github.com/ramach05/3D-WEB-Racing-Platform)
 
-<a href="https://github.com/ramach05/3D-WEB-Racing-Platform"><img src="https://raw.githubusercontent.com/ramach05/3D-WEB-Racing-Platform/main/docs/screenshots/thumbs/race-2.png" alt="Night City race" width="100%" /></a>
+<a href="https://github.com/ramach05/3D-WEB-Racing-Platform"><img src="./images/project-racing.jpg" alt="3D racing in the browser: a time trial on Coastal Oval, a rainy lap and the track leaderboard" width="100%" /></a>
 
 Browser time-trial 3D racer: **React 19 + React Three Fiber + Rapier (WASM)** physics on the front, **NestJS 11 + Prisma 7** on the back. pnpm monorepo, Feature-Sliced Design, steady ~60 fps.
 
@@ -45,7 +45,7 @@ Browser time-trial 3D racer: **React 19 + React Three Fiber + Rapier (WASM)** ph
 
 ### [Beautiful TodoApp](https://github.com/ramach05/Beautiful-todoApp)
 
-<a href="https://github.com/ramach05/Beautiful-todoApp"><img src="https://raw.githubusercontent.com/ramach05/Beautiful-todoApp/main/docs/screenshots/thumbs/desktop/todo.png" alt="Beautiful TodoApp — the todo list on desktop" width="100%" /></a>
+<a href="https://github.com/ramach05/Beautiful-todoApp"><img src="./images/project-todo.jpg" alt="Beautiful TodoApp: the todo list and the statistics tab" width="100%" /></a>
 
 Todo app built to production standards: **React 19 + Vite** SPA on Feature-Sliced Design, **Fastify 5 + oRPC + better-auth + Drizzle/PostgreSQL** on the back. pnpm + Turborepo monorepo, one zod contract for the client, the server and the generated OpenAPI.
 
@@ -62,9 +62,30 @@ Todo app built to production standards: **React 19 + Vite** SPA on Feature-Slice
 
 ## More projects
 
-- **[withdraw-page](https://github.com/ramach05/withdraw-page)** — money-withdrawal form on Next.js 16 + Zustand: idempotent submit, retry policy, request cancellation; 13 Vitest + 1 Playwright test, CI-gated.
-- **[fitness-tariffs](https://github.com/ramach05/fitness-tariffs)** — gym membership landing on Next.js 15 + Tailwind: live promo countdown, tariff cards from a runtime API.
-- **[product-catalog](https://github.com/ramach05/product-catalog)** — authenticated products table on React 18 + Vite + Zustand: server-side search, sort and pagination, CSS Modules.
+### [withdraw-page](https://github.com/ramach05/withdraw-page)
+
+<a href="https://github.com/ramach05/withdraw-page"><img src="./images/project-withdraw.jpg" alt="Withdrawal form: empty fields with validation errors, and a filled form with a simulated server error" width="100%" /></a>
+
+Money-withdrawal form on Next.js 16 + Zustand: idempotent submit, retry policy, request cancellation; 13 Vitest + 1 Playwright test, CI-gated.
+
+<br>
+
+### [fitness-tariffs](https://github.com/ramach05/fitness-tariffs)
+
+<a href="https://github.com/ramach05/fitness-tariffs"><img src="./images/project-fitness.jpg" alt="Gym pricing landing: plan cards with discounts and the promo timer running, running out and expired" width="100%" /></a>
+
+Gym membership landing on Next.js 15 + Tailwind: live promo countdown, pricing plans from a runtime API.
+
+<br>
+
+### [product-catalog](https://github.com/ramach05/product-catalog)
+
+<a href="https://github.com/ramach05/product-catalog"><img src="./images/project-catalog.jpg" alt="Product catalog: sortable table with search and pagination, and the add-product modal" width="100%" /></a>
+
+Authenticated products table on React 18 + Vite + Zustand: server-side search, sort and pagination, CSS Modules.
+
+<br>
+
 - **[movies-explorer](https://github.com/ramach05/movies-explorer-frontend)** + [backend](https://github.com/ramach05/movies-explorer-api) — movie search app with a personal collection: React frontend, Express/MongoDB API with JWT auth.
 
 Early learning projects (2021: layout, first React and Node) are archived and kept for reference.
